@@ -15,11 +15,11 @@
 
 <br>
 
-![Insect Catch Game]()
+![Insect Catch Game](images/insect-catch-game.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Insect-Catch-Game/)
 
 <br>
 
